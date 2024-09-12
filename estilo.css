@@ -1,0 +1,23 @@
+#container{
+    background-color: greenyellow;
+    border: solid 3px black;
+    width: 1400px;
+    height: 100vh;
+    display: flex;
+    margin: auto;
+}
+#esquerdo{
+    background-color: #d9d9d9;
+    width: 560px;
+    height: 100vh;
+    padding-left: 270px;
+}    
+#direito{ 
+    background-color: white;
+    width: 840px;
+    height: 100vh;
+    font-size: x-large;
+    font-family: "Ruda", sans-serif;
+}
+
+
